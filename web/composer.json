@@ -1,2 +1,5 @@
 {
+    "require": {
+        "facebook/facebook-instant-articles-sdk-php": "^1.6"
+    }
 }
